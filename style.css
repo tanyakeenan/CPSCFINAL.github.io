@@ -1,9 +1,8 @@
 body {
-background:#196dff;
-<ul>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
+background:#f9e2f8;
+.header {
+	text-align: center;
+}
+}
 
 
